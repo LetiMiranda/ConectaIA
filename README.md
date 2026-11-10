@@ -14,3 +14,13 @@ Principais funcionalidades propostas:
 - Integração com WhatsApp.
 - Centralização das conversas entre empresa e clientes.
 Objetivo do projeto: explorar como a Inteligência Artificial pode facilitar o acesso à tecnologia, ajudando empreendedores a criarem sua presença digital e melhorarem o atendimento ao cliente, mesmo sem conhecimentos técnicos.
+
+
+
+
+
+
+Integrantes:
+
+Leticia Miranda Martins - RA: 2026100546
+Beatriz de Fatima Barbosa de Oliveira - RA: 2026105738
