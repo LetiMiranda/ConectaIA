@@ -1,7 +1,7 @@
 ConectaIA
 
 
-A ConectaIA é uma proposta de plataforma desenvolvida como parte de um projeto acadêmico, com a ideia de utilizar Inteligência Artificial para ajudar pequenas empresas e empreendedores a entrarem no mundo digital de forma simples.
+A ConectaIA é uma proposta de plataforma desenvolvida como parte de uma apresentação acadêmica para a faculdade FMU, com a ideia de utilizar Inteligência Artificial para ajudar pequenas empresas e empreendedores a entrarem no mundo digital de forma simples.
 
 A proposta é permitir que qualquer pessoa, mesmo sem conhecimentos de programação, consiga criar sites e sistemas para seu negócio apenas descrevendo o que deseja para a IA.
 
