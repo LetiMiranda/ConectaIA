@@ -14,5 +14,3 @@ Principais funcionalidades propostas:
 - Integração com WhatsApp.
 - Centralização das conversas entre empresa e clientes.
 Objetivo do projeto: explorar como a Inteligência Artificial pode facilitar o acesso à tecnologia, ajudando empreendedores a criarem sua presença digital e melhorarem o atendimento ao cliente, mesmo sem conhecimentos técnicos.
-
-Este projeto representa uma ideia inicial (MVP conceitual), desenvolvida para apresentar a proposta, suas possibilidades e aplicações da IA no ambiente empresarial.
